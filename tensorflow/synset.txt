@@ -1,0 +1,8 @@
+item {
+  "id": 1,
+  "display_name": "box"
+}
+item {
+  "id": 2,
+  "display_name": "box_clear"
+}
